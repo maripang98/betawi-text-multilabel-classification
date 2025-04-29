@@ -3,7 +3,7 @@ import streamlit as st
 
 # Set page configuration (MUST be the first Streamlit command)
 st.set_page_config(
-    page_title="Multi-label Text Classification",
+    page_title="Multi-label Text Classification for Automotive Reviews in Betawi Language",
     layout="wide"
 )
 
