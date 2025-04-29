@@ -24,7 +24,7 @@ if 'df' not in st.session_state:
     st.session_state.df = load_data()
 
 # Add title and description
-st.title("Automotive Reviews Multi-label Text Classification")
+st.title("Multi-label Text Classification for Automotive Reviews in Betawi Language")
 st.markdown("Multi-label classification for automotive reviews across different aspects: fuel, machine, and parts.")
 
 # Main page content
